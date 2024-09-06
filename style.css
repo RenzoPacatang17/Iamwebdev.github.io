@@ -14,7 +14,7 @@
 /* Style for Navigation Bar*/
 .navbar{
 	position: fixed; 
-	width: 90%;
+	width: 100%;
 	padding: 15px 0px;
 	font-family: 'Montserrat', sans-serif;
 	background: turquoise;
