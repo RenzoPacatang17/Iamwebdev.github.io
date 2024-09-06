@@ -6,7 +6,7 @@
  	text-decoration: none;
 }
 body {
-	
+	overflow: hidden
 }
 .max-width {
 	max-width: 1300px;
@@ -74,6 +74,7 @@ body {
 	color: red;
 	min-height: 500px;
 	max-height: 720px;
+	width: 400px
 	background-size: cover; 
 	background-attachment: fixed;
 	font-family: 'Montserrat', sans-serif;
@@ -86,7 +87,7 @@ body {
 	font-weight: 600;
 }
 .home .home-content .text-2 {
-	font-size: 40px;
+	font-size: 30px;
 	font-weight: 700;
 	margin: -3px;
 }
