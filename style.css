@@ -478,14 +478,14 @@ footer span a:hover{
 		font-size:25px;
 	}
 	.home .home-content .text-2{
-		font-size: 35px;
+		font-size: 30px;
 	}
 	.home .home-content a{
 		font-size: 18px;
-		padding:10px 30px;
+		padding:10px 25px;
 	}
 	.max-width{
-		max-width: 930px;
+		max-width: 950px;
 	}
 	.about .about-content .column{
 		width: 100%;
