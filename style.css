@@ -83,15 +83,15 @@ body{
 	margin: auto 0 auto 30px; 
 }
 .home .home-content .text-1{
-	font-size:25px;
+	font-size:20px;
 }
 .home .home-content .text-2{
-	font-size:50px;
+	font-size:35px;
 	font-weight: 700;
 	margin: -3px;
 }
 .home .home-content .text-3{
-	font-size:25px;
+	font-size:20px;
 }
 .home .home-content a{
 	display:inline-block;
