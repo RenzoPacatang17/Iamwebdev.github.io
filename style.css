@@ -74,6 +74,7 @@
 	background-size: cover; 
 	background-attachment: fixed;
 	font-family: 'Montserrat', sans-serif
+	width:400px;
 }
 .home .max-width{
 	margin: auto 0 auto 30px; 
