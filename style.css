@@ -475,7 +475,7 @@ footer span a:hover{
 	.navbar .menu li a{
 		display: inline-block;
 		margin: 20px;
-		font-size:25px;
+		font-size:30px;
 	}
 	.home .home-content .text-2{
 		font-size: 35px;
@@ -485,7 +485,7 @@ footer span a:hover{
 		padding:10px 30px;
 	}
 	.max-width{
-		max-width: 920px;
+		max-width: 930px;
 	}
 	.about .about-content .column{
 		width: 100%;
