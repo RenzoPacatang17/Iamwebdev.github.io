@@ -80,6 +80,7 @@
 }
 .home .home-content .text-1{
 	font-size:25px;
+	font-weight: 600;
 }
 .home .home-content .text-2{
 	font-size:50px;
@@ -88,6 +89,7 @@
 }
 .home .home-content .text-3{
 	font-size:25px;
+	font-weight: 600;
 }
 .home .home-content a{
 	display:inline-block;
