@@ -73,7 +73,7 @@
 	max-height: 720px;
 	background-size: cover; 
 	background-attachment: fixed;
-	font-family: 'Montserrat', sans-serif
+	font-family: 'Montserrat', sans-serif;
 }
 .home .max-width{
 	margin: auto 0 auto 30px; 
@@ -173,7 +173,7 @@ section{
 	width: calc(33% - 20px);
 	background:white;
 	text-align:center;
-	border-radius: 6px
+	border-radius: 6px;
 	padding:40px 40px;
 	padding-bottom: 15px;
 	padding-top: 5px;
@@ -181,7 +181,7 @@ section{
 .services .services-content .card:hover{
 	background:aqua;
 }
-.services .serices-content .card .box{
+.services .services-content .card .box{
 	transition:all 0.3s ease;
 }
 .services .services-content .card .box:hover{
@@ -373,7 +373,7 @@ section{
 .contact .right form .textarea textarea{
 	height:100%;
 	width: 100%;
-	border: 1px solid:lightgray;
+	border: 1px solid lightgray; /* Corrected */
 	border-radius: 6px;
 	outline: none;
 	padding: 0 15px;
