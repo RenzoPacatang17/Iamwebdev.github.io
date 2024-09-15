@@ -118,7 +118,7 @@ section {
 }
 .about .title {
     text-align: center;
-    font-size: 25px;
+    font-size: 27px;
     padding-bottom: 50px;
 }
 .about .about-content {
@@ -402,7 +402,7 @@ section {
 
 /*Style Footer Section*/
 footer {
-    font-size: 25px
+    font-size: 30px
     font-family: 'Montserrat' , sans-serif;
     color: white;
     background: black;
