@@ -515,6 +515,6 @@ footer span a:hover {
 }
 @media (max-width: 375px) {
     .max-width {
-       max-with: 100%;
+       padding: 0;
     }
 }
